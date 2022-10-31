@@ -1,0 +1,14 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "UdacityProject"
+	},
+	{
+	  "ParameterKey": "AMIofWebServer",
+	  "ParameterValue": "ami-0ee23bfc74a881de5"
+	},
+	{
+	  "ParameterKey": "TypeOfWebServer",
+	  "ParameterValue": "t2.medium"
+	}
+]
